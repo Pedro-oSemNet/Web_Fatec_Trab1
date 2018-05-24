@@ -1,0 +1,64 @@
+body {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.back-page {
+    background: url('http://localhost:8088/meu_perfil/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-formacao {
+    background: url('http://localhost:8088/meu_perfil/img/bg-formacao.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.opacity {
+    background: rgba(0, 0, 0, 0.6);
+    
+        
+}
+
+.footer-landpage {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-top: solid 1px #535353;
+    color: #acacac;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+}
+
+.body-formacao {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.text-color {
+    color: ghostwhite;
+    margin-right: 50px;
+    margin-left: 50px; 
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 46px;
+}
+
+.talbe-index{
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    margin-right: 18px;
+    margin-left:18px;
+}
+
+.hr {
+    width:auto;
+    margin-left: 500px;
+    border-style: dashed;
+}
